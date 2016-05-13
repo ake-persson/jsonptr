@@ -1,5 +1,9 @@
 [![GoDoc](https://godoc.org/github.com/mickep76/jsonptr?status.svg)](https://godoc.org/github.com/mickep76/jsonptr)
 
+# JSON Pointer
+
+Go implementation of [JSON Pointer](https://tools.ietf.org/html/rfc6901).
+
 # jsonptr
     import "github.com/mickep76/jsonptr"
 
